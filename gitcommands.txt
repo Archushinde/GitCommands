@@ -1,0 +1,9 @@
+git status
+git add .
+git commit -m 'mess'
+git push
+git stash
+git pop
+git log
+git checkout -b
+git switch
